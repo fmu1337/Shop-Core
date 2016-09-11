@@ -460,7 +460,7 @@
 	{
 		"#format"   "{1:s}"
 		"ru"		"{green}[Shop] {default}Ваши данные магазина были загружены! Введите в чате {green}!{1}{default} для доступа к магазину!"
-		"en"		"{green}[Shop] {default}You data of the shop has been loaded! Type {green}1{1}{default} to open the shop!"
+		"en"		"{green}[Shop] {default}You data of the shop has been loaded! Type {green}!{1}{default} to open the shop!"
 	}
 	"DataLoaded2"
 	{
